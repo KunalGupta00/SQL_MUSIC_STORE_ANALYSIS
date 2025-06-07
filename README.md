@@ -7,6 +7,7 @@ This project is for beginners and will teach you how to analyze the music playli
 # Database and Tools
 
 Postgre SQL
+
 PgAdmin4
 
 
